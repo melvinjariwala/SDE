@@ -1,3 +1,7 @@
+//This is a problem statement from Array section of GeekforGeeks SDE sheet.
+
+
+
 //{ Driver Code Starts
 // C++ program to remove recurring digits from
 // a given number
